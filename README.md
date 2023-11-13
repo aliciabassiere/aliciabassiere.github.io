@@ -142,7 +142,7 @@
 <div id="h.6bb1a716e298785e_17" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque GNzUNc">
 <div class="jXK9ad-SmKAyb">
 <div class="tyJCtd mGzaTb baZpAe">
-<p class="CDt4Ke zfr3Q" dir="ltr">My thesis work consists in identifying and better understanding these failures. For the moment at least, it is not a question of evaluating a cost, or choosing an optimal mix, as the question is so complex. I am also interested in other related topics, such as mobility, the geopolitics of oil and rare metals, and the impact of energy abundance on the transformation of society.</p>
+<p class="CDt4Ke zfr3Q" dir="ltr">My website has moved <a href="[url](https://sites.google.com/view/alicia-bassiere)">here</a>  </p>
 </div>
 </div>
 </div>
