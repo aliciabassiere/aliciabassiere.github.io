@@ -28,7 +28,7 @@
 </div>
 </div>
 
-<p class="CDt4Ke zfr3Q" dir="ltr">My website has moved <a href="[https://sites.google.com/view/alicia-bassiere]">here</a>  </p>
+<p class="CDt4Ke zfr3Q" dir="ltr">My website has moved <a href="https://sites.google.com/view/alicia-bassiere">here</a>  </p>
 </div>
 </div>
 </div>
